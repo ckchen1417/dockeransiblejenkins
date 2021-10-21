@@ -1,2 +1,3 @@
 [dev]
 35.238.254.51 ansible_user=wordpress1417
+ansible_python_interpreter=/usr/bin/python3
